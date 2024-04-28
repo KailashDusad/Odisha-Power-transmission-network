@@ -41,9 +41,9 @@ The primary objective of this project is to investigate the impact of population
 ### Images
 
 - ![Edges Colored According to type of Transsmission Line](https://github.com/KailashDusad/Odisha-Power-transmission-network/blob/main/endge%20colored.jpg)
-- [Network According to Geo Layout](https://github.com/KailashDusad/Odisha-Power-transmission-network/blob/main/network%20with%20latLong.jpg)
-- [Load Distribution with existing Nodes](https://github.com/KailashDusad/Odisha-Power-transmission-network/blob/main/existing%20.jpg)
-- [Load Distribution by Making a Nodes](https://github.com/KailashDusad/Odisha-Power-transmission-network/blob/main/new%20node.jpg)
+- ![Network According to Geo Layout](https://github.com/KailashDusad/Odisha-Power-transmission-network/blob/main/network%20with%20latLong.jpg)
+- ![Load Distribution with existing Nodes](https://github.com/KailashDusad/Odisha-Power-transmission-network/blob/main/existing%20.jpg)
+- ![Load Distribution by Making a Nodes](https://github.com/KailashDusad/Odisha-Power-transmission-network/blob/main/new%20node.jpg)
 
 ## Summary
 
